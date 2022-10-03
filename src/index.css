@@ -52,7 +52,7 @@ body{
 .page-container__result {
 
   display: grid;
-  grid-template-rows: 1.5fr 0fr;
+  grid-template-rows: 1.3fr 0fr;
   max-width: 414px;
   margin: 0 auto;
   height: 100vh;
