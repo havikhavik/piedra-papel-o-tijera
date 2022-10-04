@@ -18,7 +18,7 @@ export function init() {
             .button-style{
             background-color:#9CBBE9;
             width:100%;
-            margin: 25px 0px;
+            margin: 10px 0px 25px 0px;
             padding: 9px 0px;
             text-align:center;
             font-size: 45px;

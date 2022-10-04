@@ -64,7 +64,7 @@ body{
     padding: 40px 34px 0px 34px;
 
     display: grid;
-    grid-template-rows: 1fr 0fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
   }
   
 }
